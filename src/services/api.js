@@ -54,7 +54,7 @@ export function loadLists() {
           },
           {
             id: 15,
-            content: 'Devops',
+            content: 'Estudar Devops',
             labels: [],
             user: 'https://avatars2.githubusercontent.com/u/20051707?s=460&v=4'
           },
@@ -63,7 +63,7 @@ export function loadLists() {
             content: 'Team meeting',
             labels: [],
             user: 'https://avatars2.githubusercontent.com/u/20051707?s=460&v=4'
-          }
+          },
         ]
       },
       { 
